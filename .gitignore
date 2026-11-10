@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 build/*
 .vs/*
 .vscode/*
 res/volumes*
 imgui.ini
+=======
+
+.vs/
+build/
+Debug/
+Release/
+x64/
+out/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.suo
+>>>>>>> 3030d702a9a7f57487d1d638328f84797ed7cec2
