@@ -17,6 +17,9 @@ public:
 	glm::vec4 ambient_light;
 	std::vector<Light*> light_list;
 
+	// add bgColor to modify it at the menu and pass it to volumeMaterial!
+	glm::vec3 background_color; 
+
 	int window_width;
 	int window_height;
 

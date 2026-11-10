@@ -35,7 +35,7 @@ public:
 	glm::mat4 view_matrix;
 	glm::mat4 projection_matrix;
 	glm::mat4 viewprojection_matrix;
-
+	
 	Camera();
 
 	// Setters

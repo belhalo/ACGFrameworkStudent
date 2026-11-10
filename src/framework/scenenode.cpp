@@ -62,3 +62,10 @@ void SceneNode::renderInMenu()
 		ImGui::TreePop();
 	}
 }
+
+// Task1
+VolumeNode::VolumeNode() {}
+
+VolumeNode::VolumeNode(const char* name) { }
+
+VolumeNode::~VolumeNode() {}
